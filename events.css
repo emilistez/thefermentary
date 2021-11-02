@@ -1,0 +1,153 @@
+
+
+
+
+#banner{
+    background-image:url(./media/web-banner.png);
+    background-size:cover;
+
+}
+#text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px !important;
+    font-weight:bolder !important; 
+    padding-top:60px; 
+
+}
+#logo-img{
+    position:absolute;
+    top:80px;
+    left: 950px;
+}
+
+
+
+
+nav{
+    font-family: 'Manrope', sans-serif;
+    text-align:center;
+    border-bottom: 3px solid black;
+    height:50px;
+    width:100%; 
+}
+.home{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+
+}
+
+.shop{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+}
+
+.recipes{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+}
+
+.product{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+}
+
+.events{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+}
+
+.blog{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+}
+
+.cart{
+    margin-right:75px;
+    padding-left:25px;
+    padding-right:25px;
+    text-decoration:none;
+    color:white;
+}
+
+
+
+.title{
+    cursor: pointer;
+    left:0;
+    letter-spacing:0;
+    transition: all 0.2s ease;
+    white-space: normal;
+}
+
+.title:hover{
+    color:#c3922e;
+
+}
+
+.smart-layers-pointers{
+    pointer-events:auto;
+    visibility:visible;
+}
+
+.rectangle-1{
+    background-color:#114107;
+    border-radius:5px;
+
+}
+.--navigation{
+    font: size 20px;
+    
+
+}
+
+h1{
+    font-family:'Raleway',sans-serif;
+    font-weight:bold;
+
+}
+
+h2{
+    font-family:'Raleway',sans-serif;
+
+}
+
+h3{
+    font-family:'Raleway',sans-serif;
+
+}
+
+h4{
+    font-family:'Raleway',sans-serif;
+
+}
+
+h5{
+    font-family:'raleway',sans-serif;
+
+}
+
+h6{
+    font-family:'rale-way',sans-serif;
+}
+
+p{
+    font-family:'manrope',sans-serif;
+}
